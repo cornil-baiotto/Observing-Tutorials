@@ -1,7 +1,7 @@
 ## Observing & Data Reduction Tutorials
 
 - [ALMA Data Reduction](casa_almadr_2026v2.pdf) \
-CASA tutorial on ALMA data processing: from calibrated visibility restoration to science-ready continuum and line imaging products, illustrated with mock ALMA data (2026).
+CASA tutorial on ALMA data processing: from calibrated visibility restoration to science-ready continuum and spectral line imaging, illustrated with schematic figures based on mock ALMA data (2026).
 
 - [Magellan Observing Notes](magellan_obsnotes_2025v1.pdf) \
 Observing notes to help prepare optical and near-IR spectroscopy of galaxies using Magellan-Clay/LDSS3 and Magellan-Baade/FIRE, including links to the associated proposal, LDSS3 mask files, observing plans, and logs for the cluster lens MACSJ2243–0935 (2025).
