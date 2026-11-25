@@ -1,7 +1,7 @@
 ## Observing & Data Reduction Tutorials
 
 - [Magellan Observing Notes](magellan_obsnotes_2025v1.pdf) \
-Tutorial for optical multi-slit spectroscopy and near-IR echelle spectroscopy of galaxies with Magellan-Clay/LDSS3 and Magellan-Baade/FIRE, including links to the associated proposal, LDSS3 mask files, observing plans, and logs for the cluster lens MACSJ2243–0935 (2025).
+Tutorial for preparing optical multi-slit and near-IR echelle spectroscopy of galaxies with Magellan-Clay/LDSS3 and Magellan-Baade/FIRE, including links to the associated proposal, LDSS3 mask files, observing plans, and logs for the cluster lens MACSJ2243–0935 (2025).
 
 - [ALMA Data Reduction](casa_almadr_2026v2.pdf) \
 CASA tutorial on ALMA data processing: from calibrated visibility restoration to science-ready continuum and spectral line imaging, illustrated with schematic figures based on mock ALMA data (2026).
